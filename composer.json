@@ -1,5 +1,5 @@
 {
-    "name": "illuminated/console-mutex",
+    "name": "tajmahal86/console-mutex",
     "description": "Mutex for Laravel Console Commands.",
     "keywords": [
         "laravel",
